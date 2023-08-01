@@ -1,0 +1,12 @@
+.itemDetailContainer {
+    text-align: center;
+}
+
+.itemDetailContainer button {
+    background-color: orange;
+    margin: auto;
+}
+
+.itemDetailContainer img {
+    height: 30vh;
+}

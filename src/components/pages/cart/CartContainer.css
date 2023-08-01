@@ -1,0 +1,33 @@
+
+.cartContainer img {
+    width: 10vw;
+    height: 20vh;
+}
+
+.cartContainer h3 {
+    font-size: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
+.cartContainer {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 200px;
+}
+
+.cartContainer button {
+    background-color: orange;
+    height: 30%;
+}
+
+.cartDetail {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    
+}
